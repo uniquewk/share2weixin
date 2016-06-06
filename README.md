@@ -3,7 +3,7 @@
 
 第一步 获取access_token
 
-https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wxf61eb1870dc15b30&secret=5307433c787d335be5f59c4cd7c7227c
+https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wxf61eb1870dcxxxxx&secret=5307433c787d335be5f59cxxxxxx
 
 结果：
 {
